@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Thermal Comfort</string>
+    <string name="seekbar_background" />
+    <string name="submit">SUBMIT</string>
+    <string name="i_prefer">I Prefer</string>
+    <string name="reset">RESET</string>
+</resources>
